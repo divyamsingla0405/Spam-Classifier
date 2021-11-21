@@ -1,6 +1,6 @@
 # Email-Spam-Classifier
 
-#Spam Classifier with *Naive Bayes*, built using Python modules.
+Spam Classifier with *Naive Bayes*, built using Python modules.
 
 # Divyam Singla (101803644)
 
